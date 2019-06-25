@@ -1,0 +1,7 @@
+@import './lib/variable';
+
+body {
+  background-color: $rootColor; 
+  color: $fontColor;
+  margin: $space;
+}
